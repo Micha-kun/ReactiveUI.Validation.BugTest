@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{00D9B53F-BBBF-4BEF-A109-196246A05878}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ViewModels", "ViewModels\ViewModels.fsproj", "{A87B5C85-F351-433D-8D14-6B812CA1AD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D9B53F-BBBF-4BEF-A109-196246A05878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D9B53F-BBBF-4BEF-A109-196246A05878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D9B53F-BBBF-4BEF-A109-196246A05878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D9B53F-BBBF-4BEF-A109-196246A05878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87B5C85-F351-433D-8D14-6B812CA1AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87B5C85-F351-433D-8D14-6B812CA1AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87B5C85-F351-433D-8D14-6B812CA1AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87B5C85-F351-433D-8D14-6B812CA1AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E21704C-6FA7-46FF-9490-09221CD77A8A}
+	EndGlobalSection
+EndGlobal
